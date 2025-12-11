@@ -242,7 +242,7 @@ a:hover{
     padding: 10px 20px;
     background-color: var(--green);
     color: var(--white);
-    font-size: 14px;
+    font-size: 14px bold;
     border: none;
     border-radius: 25px;
     align-content: center;
@@ -304,7 +304,7 @@ a:hover{
     padding: 10px 20px;
     background-color: var(--green);
     color: var(--white);
-    font-size: 14px;
+    font-size: 14px bold;
     border: none;
     border-radius: 25px;
     align-content: center;

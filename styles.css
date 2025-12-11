@@ -179,9 +179,9 @@ a:hover{
 
 .explore-section .button{
     padding: 10px 20px;
-    background-color: var(--green);
+    background-color: var(--blue);
     color: var(--white);
-    font-size: 14px bold;
+    font-size: 14px;
     border: none;
     border-radius: 25px;
     align-content: center;
@@ -192,7 +192,7 @@ a:hover{
 }
 
 .explore-section .button:hover{
-    background-color: var(--blue);
+    background-color: var(--purple);
     color: var(--white);
     cursor: pointer;
 }
@@ -240,9 +240,9 @@ a:hover{
 
 .kids-section .button{
     padding: 10px 20px;
-    background-color: var(--green);
+    background-color: var(--blue);
     color: var(--white);
-    font-size: 14px bold;
+    font-size: 14px;
     border: none;
     border-radius: 25px;
     align-content: center;
@@ -253,7 +253,7 @@ a:hover{
 }
 
 .kids-section .button:hover{
-    background-color: var(--blue);
+    background-color: var(--purple);
     color: var(--white);
     cursor: pointer;
 }
@@ -302,9 +302,9 @@ a:hover{
 }
 .visit-section .button{
     padding: 10px 20px;
-    background-color: var(--green);
+    background-color: var(--blue);
     color: var(--white);
-    font-size: 14px bold;
+    font-size: 14px;
     border: none;
     border-radius: 25px;
     align-content: center;
@@ -315,7 +315,7 @@ a:hover{
 }
 
 .visit-section .button:hover{
-    background-color: var(--blue);
+    background-color: var(--purple);
     color: var(--white);
     cursor: pointer;
 }

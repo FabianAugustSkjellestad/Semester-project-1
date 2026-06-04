@@ -9,5 +9,8 @@ This is the repository for the semester project 1 - Community Science Museum is 
 - CSS
 - Figma
 
+# Project Link
+- https://fabianaugustskjellestad.github.io/Semester-project-1/
+
 # Contact
 fabianaugustskjellestad@gmail.com

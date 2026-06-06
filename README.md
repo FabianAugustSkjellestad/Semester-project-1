@@ -9,6 +9,17 @@ This is the repository for the semester project 1 - Community Science Museum is 
 - CSS
 - Figma
 
+# Installation
+1. **Clone the repository**
+   ```bash
+   git clone https://github.com/FabianAugustSkjellestad/FabianSkjellestad-Gamehub-js.git
+   ```
+2. **Open with Live Server**
+   ```bash
+   Open index.html using Live Server Extension
+   ```
+
+
 # Project Link
 - https://fabianaugustskjellestad.github.io/Semester-project-1/
 

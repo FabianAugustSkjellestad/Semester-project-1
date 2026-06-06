@@ -12,7 +12,7 @@ This is the repository for the semester project 1 - Community Science Museum is 
 # Installation
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/FabianAugustSkjellestad/FabianSkjellestad-Gamehub-js.git
+   git clone https://github.com/FabianAugustSkjellestad/Semester-project-1.git
    ```
 2. **Open with Live Server**
    ```bash
